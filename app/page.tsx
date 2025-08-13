@@ -218,8 +218,8 @@ export default function SKSAutoIndustries() {
                   SKS
                 </div>
                 <div
-                  className="uppercase tracking-widest
-            text-white/80 md:text-gray-500 text-[10px] md:text-xs"
+                  className="uppercase tracking-normal
+            text-white/80 md:text-black text-[10px] md:text-base"
                 >
                   Auto Industries
                 </div>
@@ -314,8 +314,8 @@ export default function SKSAutoIndustries() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-8 animate-in slide-in-from-left duration-1000">
               <div className="space-y-4">
-                <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900">
-                  SKSAuto
+                <h1 className="text-3xl sm:text-5xl lg:text-6xl font-bold text-gray-900">
+                  SKS Auto
                   <span className="text-blue-600 ml-2"> Industries</span>
                 </h1>
                 <span className=" font-bold tracking-wide text-2xl  ">
