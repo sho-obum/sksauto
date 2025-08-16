@@ -33,6 +33,10 @@ import logo from "../public/sks.svg";
 import ContactSectionEnhanced from "@/components/Contact-Section";
 import ProductCarousel from "@/components/ProductCarousel";
 import ProductShowcase from "@/components/ProductShowcase";
+import HeroImg from "../public/1.jpeg";
+import HeroImg2 from "../public/2.jpeg";
+import HeroImg3 from "../public/heroImg3.png";
+import HeroImg4 from "../public/hero4.png";
 
 function AnimatedStat({
   end,
@@ -196,114 +200,126 @@ export default function SKSAutoIndustries() {
 
   return (
     <div className="min-h-screen bg-white">
-      <nav
-        className="fixed top-0 w-full z-50 transition-all duration-300
-  bg-transparent md:bg-white/90 md:backdrop-blur-md md:border-b md:border-gray-200"
-      >
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between items-center h-20">
-            {/* Brand */}
-            <Link href="/" className="flex items-center space-x-3 group">
-              <div
-                className="flex items-center justify-center w-11 h-11
-          bg-gradient-to-tr from-blue-600 to-indigo-500 rounded-full text-white font-extrabold"
-              >
-                SKS
-              </div>
-              <div className="leading-tight">
-                <div
-                  className="font-black tracking-wide
-            text-white md:text-gray-900 text-2xl md:text-3xl"
-                >
-                  SKS
-                </div>
-                <div
-                  className="uppercase tracking-normal
-            text-white/80 md:text-black text-[10px] md:text-base"
-                >
-                  Auto Industries
-                </div>
-              </div>
-            </Link>
-
-            {/* Desktop Links */}
-            <div className="hidden md:flex space-x-8 items-center">
-              <Link
-                href="/#products"
-                className="text-sm font-medium text-gray-700 hover:text-blue-600 transition-colors"
-              >
-                Product Catalogue
-              </Link>
-              <Link
-                href="/blog"
-                className="text-sm font-medium text-gray-700 hover:text-blue-600 transition-colors"
-              >
-                Blogs
-              </Link>
-              <Button
-                onClick={() => scrollToSection("contact")}
-                className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 text-base font-semibold rounded-lg transition-all duration-300 hover:scale-105 hover:shadow-lg"
-              >
-                Get in Touch
-              </Button>
-            </div>
-
-            {/* Mobile Menu Button */}
-            <div className="md:hidden">
-              <button
-                onClick={() => setIsMenuOpen(!isMenuOpen)}
-                className="text-white hover:text-blue-200 transition-colors"
-              >
-                {isMenuOpen ? (
-                  <X className="w-6 h-6" />
-                ) : (
-                  <Menu className="w-6 h-6" />
-                )}
-              </button>
-            </div>
+     <nav
+  className="fixed top-0 w-full z-50 transition-all duration-300
+  bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/80 border-b border-gray-200"
+>
+  <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div className="flex justify-between items-center h-20">
+      {/* Brand */}
+      <Link href="/" className="flex items-center space-x-3 group">
+        <div
+          className="flex items-center justify-center w-11 h-11
+          bg-gradient-to-tr from-blue-600 to-indigo-500 rounded-full text-white font-extrabold shadow-sm"
+        >
+          SKS
+        </div>
+        <div className="leading-tight">
+          <div
+            className="font-black tracking-wide
+            text-black md:text-gray-900 text-2xl md:text-3xl"
+          >
+            SKS
+          </div>
+          <div
+            className="uppercase tracking-normal text-[10px] md:text-base
+            text-gray-800 md:text-black"
+          >
+            Auto <span className="text-blue-600">Industries</span>
           </div>
         </div>
+      </Link>
 
-        {/* Mobile Sheet (transparent page bg behind) */}
-        {isMenuOpen && (
-          <div className="md:hidden bg-black/60 backdrop-blur-sm">
-            <div className="px-4 pt-4 pb-6 space-y-1">
-              {[
-                { id: "home", label: "Home", href: "/" },
-                {
-                  id: "products",
-                  label: "Product Catalogue",
-                  href: "/#products",
-                },
-                { id: "blog", label: "Blogs", href: "/blog" },
-                { id: "about", label: "About" },
-                { id: "legacy", label: "Legacy" },
-                { id: "clients", label: "Clients" },
-                { id: "testimonials", label: "Testimonials" },
-              ].map((item) => (
-                <button
-                  key={item.id}
-                  onClick={() =>
-                    item.href
-                      ? (window.location.href = item.href)
-                      : scrollToSection(item.id)
-                  }
-                  className="block w-full text-left px-3 py-2 text-base font-medium
-              text-zinc-800 hover:text-zinc-900 hover:bg-white/5 rounded-md transition-colors"
-                >
-                  {item.label}
-                </button>
-              ))}
-              <Button
-                onClick={() => scrollToSection("contact")}
-                className="w-full bg-white text-blue-600 hover:bg-blue-50 px-6 py-2 text-base font-semibold rounded-lg transition-all duration-300 mt-2"
-              >
-                Get in Touch
-              </Button>
-            </div>
-          </div>
-        )}
-      </nav>
+      {/* Desktop Links */}
+      <div className="hidden md:flex items-center gap-6">
+        <Link
+          href="/#products"
+          className="text-sm font-medium text-gray-700 hover:text-blue-600 transition-colors"
+        >
+          Product Catalogue
+        </Link>
+        <Link
+          href="/blog"
+          className="text-sm font-medium text-gray-700 hover:text-blue-600 transition-colors"
+        >
+          Blogs
+        </Link>
+        <Button
+          onClick={() => scrollToSection("contact")}
+          className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 text-base font-semibold rounded-lg transition-all duration-300 hover:scale-105 hover:shadow-lg"
+        >
+          Get in Touch
+        </Button>
+      </div>
+
+      {/* Mobile Menu Button */}
+      <div className="md:hidden">
+        <button
+          onClick={() => setIsMenuOpen(!isMenuOpen)}
+          aria-expanded={isMenuOpen}
+          aria-controls="mobile-menu"
+          aria-label="Toggle menu"
+          className="text-gray-900 hover:text-blue-600 transition-colors p-2 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+        >
+          {isMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
+        </button>
+      </div>
+    </div>
+  </div>
+
+  {/* Mobile Sheet */}
+  {isMenuOpen && (
+    <div className="md:hidden">
+      {/* dim background */}
+      <div className="fixed inset-0 bg-black/40 backdrop-blur-[2px]" onClick={() => setIsMenuOpen(false)} />
+      {/* panel */}
+      <div
+        id="mobile-menu"
+        className="absolute top-20 inset-x-0 mx-3 rounded-2xl bg-white shadow-2xl
+        ring-1 ring-gray-200 overflow-hidden animate-in slide-in-from-top-2 duration-200"
+      >
+        <div className="px-4 py-4">
+          {[
+            { id: "home", label: "Home", href: "/" },
+            { id: "products", label: "Product Catalogue", href: "/#products" },
+            { id: "blog", label: "Blogs", href: "/blog" },
+            { id: "about", label: "About" },
+            { id: "legacy", label: "Legacy" },
+            { id: "clients", label: "Clients" },
+            { id: "testimonials", label: "Testimonials" },
+          ].map((item) => (
+            <button
+              key={item.id}
+              onClick={() => {
+                if (item.href) {
+                  window.location.href = item.href;
+                } else {
+                  scrollToSection(item.id);
+                }
+                setIsMenuOpen(false);
+              }}
+              className="w-full text-left px-3 py-3 rounded-lg text-base font-medium
+              text-gray-900 hover:bg-gray-100 active:bg-gray-200 transition-colors"
+            >
+              {item.label}
+            </button>
+          ))}
+
+          <Button
+            onClick={() => {
+              scrollToSection("contact");
+              setIsMenuOpen(false);
+            }}
+            className="w-full bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 text-base font-semibold rounded-xl transition-all duration-300 mt-2 hover:shadow-lg"
+          >
+            Get in Touch
+          </Button>
+        </div>
+      </div>
+    </div>
+  )}
+</nav>
+
 
       {/* Hero Section */}
       <section
@@ -315,8 +331,7 @@ export default function SKSAutoIndustries() {
             <div className="space-y-8 animate-in slide-in-from-left duration-1000">
               <div className="space-y-4">
                 <h1 className="text-3xl sm:text-5xl lg:text-6xl font-bold text-gray-900">
-                  SKS Auto
-                  <span className="text-blue-600 ml-2"> Industries</span>
+                  SKS Auto <span className="text-blue-600">Industries</span>
                 </h1>
                 <span className=" font-bold tracking-wide text-2xl  ">
                   | India's Most trusted
@@ -357,7 +372,7 @@ export default function SKSAutoIndustries() {
             <div className="relative animate-in slide-in-from-right duration-1000 delay-300">
               <div className="relative">
                 <Image
-                  src="/placeholder.svg?height=600&width=600"
+                  src={HeroImg2}
                   alt="SKS Auto Industries Manufacturing"
                   width={600}
                   height={600}
@@ -465,7 +480,7 @@ export default function SKSAutoIndustries() {
 
             <div className="relative">
               <Image
-                src="/placeholder.svg?height=500&width=600"
+                src={HeroImg}
                 alt="SKS Auto Industries Factory"
                 width={600}
                 height={500}
@@ -559,7 +574,7 @@ export default function SKSAutoIndustries() {
             </div>
             <div className="relative">
               <Image
-                src="/placeholder.svg?height=400&width=500"
+                src={HeroImg4}
                 alt="Manufacturing Heritage"
                 width={500}
                 height={400}
@@ -739,7 +754,6 @@ export default function SKSAutoIndustries() {
           <div className="grid md:grid-cols-4 gap-8">
             <div className="col-span-2">
               <div className="flex items-center space-x-2 mb-4">
-                <Factory className="w-8 h-8 text-blue-400" />
                 <span className="text-xl font-bold">SKS Auto Industries</span>
               </div>
               <p className="text-gray-400 mb-4 max-w-md">
