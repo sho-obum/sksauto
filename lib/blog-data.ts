@@ -274,22 +274,22 @@ Contact our engineering team today to discuss how custom fasteners can solve you
     image: "/placeholder.svg?height=400&width=600",
   },
   {
-    id: "ludhiana-automotive-manufacturing-hub",
-    title: "Ludhiana: The Heart of India's Automotive Component Manufacturing",
+    id: "Delhi-automotive-manufacturing-hub",
+    title: "Delhi: The Heart of India's Automotive Component Manufacturing",
     excerpt:
-      "Explore why Ludhiana has become India's premier destination for automotive component manufacturing and how local expertise drives industry growth.",
+      "Explore why Delhi has become India's premier destination for automotive component manufacturing and how local expertise drives industry growth.",
     content: `
-# Ludhiana: The Heart of India's Automotive Component Manufacturing
+# Delhi: The Heart of India's Automotive Component Manufacturing
 
-Nestled in the fertile plains of Punjab, Ludhiana has emerged as one of India's most significant automotive component manufacturing hubs. This industrial city, often called the "Manchester of India," has been the backbone of automotive supply chains for decades, and SKS Auto Industries has been proud to be part of this remarkable journey since 1998.
+Nestled in the fertile plains of Punjab, Delhi has emerged as one of India's most significant automotive component manufacturing hubs. This industrial city, often called the "Manchester of India," has been the backbone of automotive supply chains for decades, and SKS Auto Industries has been proud to be part of this remarkable journey since 1998.
 
-## The Rise of Ludhiana's Automotive Sector
+## The Rise of Delhi's Automotive Sector
 
 ### Historical Foundation
-Ludhiana's industrial heritage dates back to the early 20th century, but its automotive component sector truly flourished in the 1980s and 1990s. The city's strategic location, skilled workforce, and entrepreneurial spirit created the perfect environment for automotive manufacturing to thrive.
+Delhi's industrial heritage dates back to the early 20th century, but its automotive component sector truly flourished in the 1980s and 1990s. The city's strategic location, skilled workforce, and entrepreneurial spirit created the perfect environment for automotive manufacturing to thrive.
 
 ### Geographic Advantages
-**Strategic Location**: Positioned at the crossroads of major highways connecting Delhi, Chandigarh, and Jammu, Ludhiana offers excellent connectivity to major automotive manufacturing centers across North India.
+**Strategic Location**: Positioned at the crossroads of major highways connecting Delhi, Chandigarh, and Jammu, Delhi offers excellent connectivity to major automotive manufacturing centers across North India.
 
 **Proximity to Markets**: Within 500 km of major automotive hubs including:
 - Gurgaon (Hero MotoCorp, Maruti Suzuki suppliers)
@@ -297,7 +297,7 @@ Ludhiana's industrial heritage dates back to the early 20th century, but its aut
 - Aurangabad (Bajaj Auto)
 - Pithampur (Mahindra & Mahindra)
 
-## The Ludhiana Advantage
+## The Delhi Advantage
 
 ### Skilled Workforce
 The city boasts a unique combination of:
@@ -313,16 +313,16 @@ The city boasts a unique combination of:
 **Support Industries**: Comprehensive ecosystem of tool makers, heat treatment facilities, and testing laboratories
 
 ### Cluster Effect Benefits
-The concentration of automotive component manufacturers in Ludhiana creates several advantages:
+The concentration of automotive component manufacturers in Delhi creates several advantages:
 - **Knowledge Sharing**: Rapid dissemination of best practices and innovations
 - **Supplier Networks**: Comprehensive supply chains within the region
 - **Competitive Environment**: Healthy competition driving continuous improvement
 - **Specialized Services**: Availability of specialized services like heat treatment, plating, and testing
 
-## SKS Auto Industries: A Ludhiana Success Story
+## SKS Auto Industries: A Delhi Success Story
 
 ### Our Journey (1998-2024)
-When we established SKS Auto Industries in 1998, Ludhiana was already showing signs of becoming an automotive component hub. Over the past 25+ years, we've grown alongside the city, contributing to and benefiting from its industrial development.
+When we established SKS Auto Industries in 1998, Delhi was already showing signs of becoming an automotive component hub. Over the past 25+ years, we've grown alongside the city, contributing to and benefiting from its industrial development.
 
 **1998-2005: Foundation Years**
 - Started with basic fastener manufacturing
@@ -342,18 +342,18 @@ When we established SKS Auto Industries in 1998, Ludhiana was already showing si
 - Became a trusted supplier to major OEMs
 
 ### Contributing to the Ecosystem
-As a Ludhiana-based manufacturer, we've contributed to the local ecosystem by:
+As a Delhi-based manufacturer, we've contributed to the local ecosystem by:
 - **Employment Generation**: Providing jobs to 200+ skilled workers
 - **Skill Development**: Training programs for local youth
 - **Supplier Development**: Supporting local raw material suppliers
 - **Knowledge Transfer**: Sharing best practices with other manufacturers
 
-## Major Automotive Component Clusters in Ludhiana
+## Major Automotive Component Clusters in Delhi
 
 ### Fasteners and Hardware
-Ludhiana is home to hundreds of fastener manufacturers, making it India's largest fastener production hub:
+Delhi is home to hundreds of fastener manufacturers, making it India's largest fastener production hub:
 - **Annual Production**: Over 500,000 tons of fasteners
-- **Export Markets**: Fasteners from Ludhiana reach 50+ countries
+- **Export Markets**: Fasteners from Delhi reach 50+ countries
 - **Product Range**: From basic nuts and bolts to specialized aerospace fasteners
 
 ### Auto Parts Manufacturing
@@ -365,7 +365,7 @@ The city produces a wide range of automotive components:
 - Electrical components
 
 ### Bicycle Components
-Ludhiana is also known as India's bicycle manufacturing capital:
+Delhi is also known as India's bicycle manufacturing capital:
 - 60% of India's bicycles are manufactured here
 - Major brands like Hero Cycles, Avon Cycles based here
 - Strong component supply chain supporting bicycle industry
@@ -400,7 +400,7 @@ The Punjab government has implemented several policies to support automotive man
 ## The Road Ahead
 
 ### Industry 4.0 Adoption
-Ludhiana's automotive component manufacturers are increasingly adopting:
+Delhi's automotive component manufacturers are increasingly adopting:
 - **Automation**: Robotic manufacturing systems
 - **IoT Integration**: Connected manufacturing equipment
 - **Data Analytics**: Predictive maintenance and quality control
@@ -422,7 +422,7 @@ Initiatives to develop:
 
 ## Global Recognition
 
-Ludhiana's automotive component industry has gained international recognition:
+Delhi's automotive component industry has gained international recognition:
 - **Quality Certifications**: Many manufacturers hold international certifications
 - **Export Performance**: Significant contribution to India's automotive exports
 - **Technology Partnerships**: Collaborations with global technology providers
@@ -430,18 +430,18 @@ Ludhiana's automotive component industry has gained international recognition:
 
 ## Conclusion
 
-Ludhiana's journey from a textile hub to an automotive component manufacturing powerhouse is a testament to the city's adaptability, entrepreneurial spirit, and industrial expertise. As we look toward the future, the city is well-positioned to play a crucial role in India's automotive transformation, including the shift toward electric vehicles and smart manufacturing.
+Delhi's journey from a textile hub to an automotive component manufacturing powerhouse is a testament to the city's adaptability, entrepreneurial spirit, and industrial expertise. As we look toward the future, the city is well-positioned to play a crucial role in India's automotive transformation, including the shift toward electric vehicles and smart manufacturing.
 
-At SKS Auto Industries, we're proud to be part of Ludhiana's automotive story. Our 25+ years of experience in this dynamic environment have taught us that success comes from combining traditional manufacturing excellence with modern innovation and quality standards.
+At SKS Auto Industries, we're proud to be part of Delhi's automotive story. Our 25+ years of experience in this dynamic environment have taught us that success comes from combining traditional manufacturing excellence with modern innovation and quality standards.
 
-As the automotive industry continues to evolve, Ludhiana's manufacturers, including SKS Auto Industries, are ready to meet the challenges and opportunities that lie ahead, continuing to serve as the backbone of India's automotive supply chain.
+As the automotive industry continues to evolve, Delhi's manufacturers, including SKS Auto Industries, are ready to meet the challenges and opportunities that lie ahead, continuing to serve as the backbone of India's automotive supply chain.
 
-The future of automotive manufacturing in India is bright, and Ludhiana will undoubtedly continue to play a central role in this exciting journey.
+The future of automotive manufacturing in India is bright, and Delhi will undoubtedly continue to play a central role in this exciting journey.
     `,
     author: "Industry Analysis Team",
     date: "2024-01-05",
     category: "Industry Insights",
-    tags: ["Ludhiana", "Manufacturing Hub", "Industry Analysis", "Regional Development"],
+    tags: ["Delhi", "Manufacturing Hub", "Industry Analysis", "Regional Development"],
     readTime: "12 min read",
     image: "/placeholder.svg?height=400&width=600",
   },

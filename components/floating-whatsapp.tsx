@@ -7,7 +7,7 @@ export function FloatingWhatsApp() {
   const [isVisible, setIsVisible] = useState(true)
 
   const handleWhatsAppClick = () => {
-    const phoneNumber = "919205144611"
+    const phoneNumber = "919810910389"
     const message = encodeURIComponent(
       `Hi SKS Auto Industries! 👋
 

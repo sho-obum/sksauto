@@ -512,7 +512,7 @@ export default function SKSAutoIndustries() {
             <AnimatedLegacyStat
               end={1981}
               label="Founded"
-              description="Started our journey in Ludhiana with a vision to serve India's automotive industry"
+              description="Started our journey in Delhi with a vision to serve India's automotive industry"
             />
             <AnimatedLegacyStat
               end={2000}

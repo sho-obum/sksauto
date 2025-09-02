@@ -10,10 +10,10 @@ const TrustBadge = () => (
 
 export default function ContactSectionEnhanced() {
   const address =
-    "No. 29 Q8-A, Street No. 4K, Anand Parvat Industrial Area, New Delhi-110005, Delhi, India";
+    "Plot No B-5 Street No 1 Anand Parbat Industrial Area Near association office New Delhi-110005";
 
   const openWhatsApp = () => {
-    const phoneNumber = "919205144611";
+    const phoneNumber = "919810910389";
     const message = encodeURIComponent(
       `Hi SKS Auto Industries! 👋\n\nI found your website and I'm interested in your automotive fasteners and components.\n\nCould you please share more details about your products and services?\n\nThank you!`
     );
@@ -21,7 +21,7 @@ export default function ContactSectionEnhanced() {
   };
 
   const callNow = () => {
-    window.open("tel:+919205144611", "_self");
+    window.open("tel:+919810910389", "_self");
   };
 
   const openMaps = () => {
@@ -144,7 +144,7 @@ export default function ContactSectionEnhanced() {
               <div className="absolute inset-0 bg-black/40 group-hover:bg-black/50 transition" />
               <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-4">
                 <p className="text-white text-2xl md:text-3xl font-bold tracking-wide drop-shadow-lg flex items-center gap-2">
-                   Call Us Now!
+                  Call Us Now!
                 </p>
                 <p className="text-white/90 text-base md:text-lg drop-shadow-md">
                   Instant Quotes • Expert Advice • No Wait

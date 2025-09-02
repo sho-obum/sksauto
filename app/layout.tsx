@@ -6,11 +6,11 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "SKS Auto Industries - India's Trusted Manufacturer of Auto Parts | Ludhiana",
+  title: "SKS Auto Industries - India's Trusted Manufacturer of Auto Parts | Delhi",
   description:
-    "SKS Auto Industries - Leading manufacturer of automotive fasteners, nut bolts, U bolts, clamps, washers & custom fasteners. 25+ years of excellence in Ludhiana, Punjab. Trusted by 500+ clients across India.",
+    "SKS Auto Industries - Leading manufacturer of automotive fasteners, nut bolts, U bolts, clamps, washers & custom fasteners. 25+ years of excellence in Delhi, India. Trusted by 500+ clients across India.",
   keywords:
-    "automotive fasteners, nut bolts manufacturer, U bolts, clamps, washers, custom fasteners, auto parts manufacturer, Ludhiana, Punjab, India, SKS Auto Industries",
+    "automotive fasteners, nut bolts manufacturer, U bolts, clamps, washers, custom fasteners, auto parts manufacturer, Delhi, India, India, SKS Auto Industries",
   authors: [{ name: "SKS Auto Industries" }],
   creator: "SKS Auto Industries",
   publisher: "SKS Auto Industries",
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "SKS Auto Industries - India's Trusted Auto Parts Manufacturer",
     description:
-      "Leading manufacturer of automotive fasteners and components. 25+ years of excellence serving India's automotive industry from Ludhiana, Punjab.",
+      "Leading manufacturer of automotive fasteners and components. 25+ years of excellence serving India's automotive industry from Delhi, India.",
     url: "https://sksautoindustries.com",
     siteName: "SKS Auto Industries",
     locale: "en_IN",
@@ -45,7 +45,7 @@ export default function RootLayout({
       <head>
         <link rel="canonical" href="https://sksautoindustries.com" />
         <meta name="geo.region" content="IN-PB" />
-        <meta name="geo.placename" content="Ludhiana" />
+        <meta name="geo.placename" content="Delhi" />
         <meta name="geo.position" content="30.901;75.857" />
         <meta name="ICBM" content="30.901, 75.857" />
       </head>
